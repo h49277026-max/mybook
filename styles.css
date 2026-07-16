@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+}
+html{
+  scroll-behavior: smooth;
+}
+
+table{
+  color:rgba(21, 255, 0, 0.582); 
+}
+tr.tr{
+  color:rgba(160, 13, 13, 0.925);
+}
+tr.tr2{
+  color:rgb(17, 17, 204);
+}
+
+table,th,td{
+  border-collapse: collapse;
+  text-align: center;
+  border: 1px solid gray;
+  padding: 10px;
+  font-family: vazir;
+}
+
+body{
+  background-color:#faebd7;
+}
+a{
+  text-decoration: none;
+  color:  rgb(119, 0, 255);
+}

@@ -1,0 +1,11 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: vazir;
+    background-color: antiquewhite;
+}
+a{
+    text-decoration: none;
+    color:  rgb(67, 255, 161);
+  }
